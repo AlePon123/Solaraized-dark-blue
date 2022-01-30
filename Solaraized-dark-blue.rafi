@@ -28,7 +28,7 @@
 
     /* Solarized Darker Theme */
     transparent-background: rgba ( 0, 0, 0, 0 % );
-    foreground:                  @magenta;
+    foreground:                  @blue;
     background:                  rgba ( 0, 0, 0, 90 % );
 
     normal-foreground:           @foreground;
